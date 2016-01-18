@@ -1,0 +1,18 @@
+Package: flirt.x32
+Type: Package
+Title: Flexible Item Response Theory Modeling
+Version: 1.15
+Date: 2015-1-18
+Author: Minjeong Jeon, Frank Rijmen,
+        and Sophia Rabe-Hesketh
+Maintainer: Minjeong Jeon <jeon.117@osu.edu>
+Depends: R (>= 2.13.0), stats
+SystemRequirements: Matlab Runtime Installer (MCR) for Matlab 2014a
+        Windows 32 bit
+OS_type: Windows
+URL: http://www.mathworks.com/products/compiler/mcr/
+Description: Estimation of uni- and multi-dimensional explanatory IRT models
+License: GPL (>= 2)
+Repository: http://faculty.psy.ohio-state.edu/jeon/lab/flirt.php
+LazyLoad: yes
+Packaged: 2015-04-07 18:22:13 UTC; Administrator
