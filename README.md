@@ -1,3 +1,2 @@
 # flirt
-the unofficial fork of R package FLIRT for Flexible item response theory modeling
-see here: http://faculty.psy.ohio-state.edu/jeon/lab
+the unofficial fork (mirror) of R package FLIRT for Flexible item response theory modeling http://faculty.psy.ohio-state.edu/jeon/lab
